@@ -1,0 +1,11 @@
+Type = Material
+Class = Metal
+Title1 = Медный
+Title2 = Медная
+Title3 = Медное
+Title4 = Медные
+Sound = iron.ogg
+Durability = 4
+Armor = 1.9
+DamPhys = 1-1.2
+Rarity = 500

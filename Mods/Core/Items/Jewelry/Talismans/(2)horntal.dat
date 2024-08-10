@@ -1,0 +1,12 @@
+Type = Item
+Name = horntal
+Category = Talisman
+Title = "Рог"
+Hint = ""
+Texture = horn.png
+Level = 2
+AllowedSuffixes = "sun"
+AllowedMaterials = "bone-horn"
+UseMaterial = False
+UseAdvSuf = False
+Rarity = 1000

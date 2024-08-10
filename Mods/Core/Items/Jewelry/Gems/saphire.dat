@@ -1,0 +1,9 @@
+Type = Item
+Category = Jewelry
+Title = "Сапфир"
+Hint = "Камень из глубин океана"
+MinCount = 1
+MaxCount = 1
+CanGroup = True
+Texture = saphire.png
+Rarity = 1000

@@ -1,0 +1,7 @@
+Type = Item
+Category = Scroll
+Hint = "Пьет жизненную силу врагов"
+EffectTag = 6
+ManaCost = 7
+Rarity = 1000
+MaxCount = 2

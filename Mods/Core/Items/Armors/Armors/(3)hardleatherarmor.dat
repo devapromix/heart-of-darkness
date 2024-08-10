@@ -1,0 +1,13 @@
+Type = Item
+Name = hardleatherarmor
+Category = Armor
+Title = "Прочный Доспех"
+Hint = "Великолепный доспех из прочных материалов, обеспечивает высокий уровень защиты"
+Texture = hardleatherarmor.png
+Level = 3
+AllowedMaterials = "leather"
+AllowedSuffixes = "orcish,elven"
+Equip = Body
+Armor = 15
+Durability = 17
+Rarity = 1000

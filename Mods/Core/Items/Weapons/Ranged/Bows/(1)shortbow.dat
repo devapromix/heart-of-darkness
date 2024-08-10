@@ -1,0 +1,13 @@
+Type = Item
+Name = shortbow
+Category = Bow
+Title = "Короткий Лук"
+Hint = "В руках мастера этот лук несет смерть"
+Texture = shortbow.png
+Level = 1
+AllowedMaterials = "wood,bone"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 1-4
+Durability = 6
+Rarity = 1000

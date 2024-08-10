@@ -1,0 +1,9 @@
+Type = Map
+Texture = town.png
+Title = "Сапфир"
+TownID = 1
+Position = 0,3,0
+Deep = 0
+Level = 1
+
+

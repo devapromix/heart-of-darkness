@@ -1,0 +1,7 @@
+Type = Creature
+Title = "???????"
+Texture = bear.png
+Level = 1
+Strength = 15
+Stamina = 20
+Exp = 9

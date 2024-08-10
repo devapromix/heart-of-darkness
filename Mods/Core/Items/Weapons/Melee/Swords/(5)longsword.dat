@@ -1,0 +1,13 @@
+Type = Item
+Name = longsword
+Category = Sword
+Title = "Длинный Меч"
+Hint = ""
+Texture = longsword.png
+Level = 5
+AllowedMaterials = "metal"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 6-15
+Durability = 18
+Rarity = 1000

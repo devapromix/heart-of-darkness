@@ -1,0 +1,6 @@
+Type = Item
+Category = Throwing
+Texture = iceball.png
+Rotate = True
+DamCold = 3-7
+ManaCost = 1

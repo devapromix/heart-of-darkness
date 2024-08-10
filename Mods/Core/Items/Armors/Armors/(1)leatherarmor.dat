@@ -1,0 +1,13 @@
+Type = Item
+Name = leatherarmor
+Category = Armor
+Title = "Доспех"
+Hint = "Легкая броня, усиленная в некоторых местах вставками из других материалов"
+Texture = leatherarmor.png
+Level = 1
+AllowedMaterials = "leather"
+AllowedSuffixes = "orcish,elven"
+Equip = Body
+Armor = 10
+Durability = 14
+Rarity = 1000

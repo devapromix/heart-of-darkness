@@ -1,0 +1,13 @@
+Type = Item
+Name = ringmail
+Category = Armor
+Title = "Доспех"
+Hint = ""
+Texture = ringmail.png
+Level = 5
+AllowedMaterials = "bone,stone,metal"
+AllowedSuffixes = ""
+Equip = Body
+Armor = 20
+Durability = 20
+Rarity = 1000

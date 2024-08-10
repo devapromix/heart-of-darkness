@@ -1,0 +1,7 @@
+Type = Creature
+Title = "Гигантский Паук"
+Texture = spider.png
+Level = 1
+Strength = 4
+Stamina = 6
+Exp = 2

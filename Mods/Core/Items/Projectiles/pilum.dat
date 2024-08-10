@@ -1,0 +1,12 @@
+Type = Item
+Category = Throwing
+Title = Пилум
+Hint = "Смертельно опасное метательное копье"
+Texture = pilum.png
+CanGroup = True
+FlyAng = True
+Equip = RHand
+DamPhys = 3-7
+Rarity = 1000
+MinCount = 3
+MaxCount = 9

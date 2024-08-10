@@ -1,0 +1,13 @@
+Type = Item
+Name = lightcloak
+Category = Cloak
+Title = "Легкий Плащ"
+Hint = ""
+Texture = lightcloak.png
+Level = 1
+AllowedMaterials = "cloth,leather"
+AllowedSuffixes = "orcish,elven"
+Equip = Cloak
+Armor = 1
+Durability = 4
+Rarity = 1000

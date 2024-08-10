@@ -1,0 +1,11 @@
+Type = Item
+Name = vring
+Category = Ring
+Title = "Перстень"
+Hint = "Именно этот перстень принадлежал высокопоставленному жрецу Сапфира"
+Texture = vring.png
+Level = 2
+AllowedSuffixes = "sun"
+Gender = 1
+Equip = Ring
+Rarity = 1000

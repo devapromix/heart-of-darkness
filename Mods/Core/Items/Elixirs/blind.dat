@@ -1,0 +1,5 @@
+Type = Item
+Category = Elixir
+Hint = "Ослепляет кислотой"
+EffectTag = 5
+Rarity = 1000

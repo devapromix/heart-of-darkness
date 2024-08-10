@@ -1,0 +1,14 @@
+Type = Item
+Name = meshboots
+Category = Boots
+Title = "Сапоги"
+Hint = "Легкая и прочная обувь, обеспечивает более лучшую защиту ног"
+Texture = meshboots.png
+Level = 1
+AllowedMaterials = "cloth,leather,bone"
+AllowedSuffixes = "orcish,elven"
+Gender = 4
+Equip = Boots
+Armor = 1
+Durability = 6
+Rarity = 1000

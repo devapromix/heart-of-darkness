@@ -1,0 +1,4 @@
+Type = Effect
+Title = "Заморозка"
+Hint = "Цель обездвижена и превращена в глыбу льда"
+Texture = freezing.png

@@ -1,0 +1,13 @@
+Type = Item
+Category = Staff
+Title = "Короткий Посох"
+Hint = "Искусно сделанное оружие, знак отличия лучших колдунов"
+Texture = shortstaff.png
+Level = 1
+AllowedMaterials = "wood,bone"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 1-6
+Durability = 6
+Intellect = 3
+Rarity = 1000

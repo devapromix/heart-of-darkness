@@ -1,0 +1,4 @@
+Type = Effect
+Title = "Щит Маны"
+Hint = "Часть повреждений переходит в ману"
+Texture = freezing.png

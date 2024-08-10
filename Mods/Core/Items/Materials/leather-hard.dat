@@ -1,0 +1,7 @@
+Type = Material
+Class = Leather
+Title = "из Грубой Кожи"
+Sound = leather-hard.ogg
+Durability = 2.9
+Armor = 1.4
+Rarity = 1000

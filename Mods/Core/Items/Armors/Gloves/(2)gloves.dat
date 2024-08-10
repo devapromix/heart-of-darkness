@@ -1,0 +1,14 @@
+Type = Item
+Name = gloves
+Category = Gloves
+Title = "Рукавицы"
+Hint = "Хорошо защищают руки в бою"
+Texture = gloves.png
+Level = 2
+AllowedMaterials = "cloth,leather"
+AllowedSuffixes = "orcish,elven"
+Gender = 4
+Equip = Gloves
+Armor = 2
+Durability = 6
+Rarity = 1000

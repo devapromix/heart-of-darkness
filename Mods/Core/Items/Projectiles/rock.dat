@@ -1,0 +1,12 @@
+Type = Item
+Category = Throwing
+Title = Камень
+Hint = "Обычный камень"
+Texture = rock.png
+Equip = RHand
+CanGroup = True
+Rotate = True
+DamPhys = 3-4
+Rarity = 1000
+MinCount = 5
+MaxCount = 9

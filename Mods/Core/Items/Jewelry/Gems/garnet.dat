@@ -1,0 +1,9 @@
+Type = Item
+Category = Jewelry
+Title = "Гранат"
+Hint = "Алая кровь, застывшая в камне"
+MinCount = 1
+MaxCount = 1
+CanGroup = True
+Texture = garnet.png
+Rarity = 1000

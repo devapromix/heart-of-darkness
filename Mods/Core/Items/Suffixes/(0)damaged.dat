@@ -1,0 +1,10 @@
+Type = Suffix
+Name = damaged
+Title1 = Поврежденный
+Title2 = Поврежденная
+Title3 = Поврежденное
+Title4 = Поврежденные
+Durability = 0.5
+Armor = 0.7
+DamPhys = 0.4-0.5
+Rarity = 500

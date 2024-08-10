@@ -1,0 +1,4 @@
+Type = Effect
+Title = "Паралич"
+Hint = "Цель бьется в конвульсиях и не может двигаться"
+Texture = paral.png

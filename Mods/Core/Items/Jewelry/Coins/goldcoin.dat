@@ -1,0 +1,9 @@
+Type = Item
+Category = Coins
+Title = "Золото"
+Hint = ""
+MinCount = 2
+MaxCount = 9
+CanGroup = True
+Texture = goldcoin.png
+Rarity = 1000

@@ -1,0 +1,10 @@
+Type = Item
+Name = piramida
+Category = Amulet
+Title = "Пирамидальный Амулет"
+Hint = "В этом амулете заключена огромная сила"
+Texture = piramida.png
+Level = 3
+AllowedSuffixes = "sun"
+Equip = Amulet
+Rarity = 1000

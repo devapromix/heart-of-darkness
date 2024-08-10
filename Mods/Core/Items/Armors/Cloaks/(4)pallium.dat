@@ -1,0 +1,14 @@
+Type = Item
+Name = pallium
+Category = Cloak
+Title = "Мантия"
+Hint = ""
+Texture = pallium.png
+Level = 4
+Gender = 2
+AllowedMaterials = "cloth,leather"
+AllowedSuffixes = "orcish,elven"
+Equip = Cloak
+Armor = 4
+Durability = 7
+Rarity = 1000

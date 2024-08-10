@@ -1,0 +1,6 @@
+Type = Item
+Category = Throwing
+Texture = poisonball.png
+Rotate = True
+DamPoison = 2-3
+ManaCost = 1

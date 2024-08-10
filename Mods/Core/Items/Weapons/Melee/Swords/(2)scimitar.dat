@@ -1,0 +1,15 @@
+Type = Item
+Name = scimitar
+Category = Sword
+Title = "Скимитар"
+Hint = "Меч надежен и способен нанести смертельные раны любому врагу"
+Texture = scimitar.png
+Level = 2
+AllowedMaterials = "metal"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+//DamPhys = 3-9
+//DamFire = 20-20
+DamPoison = 10-20
+Durability = 12
+Rarity = 1000

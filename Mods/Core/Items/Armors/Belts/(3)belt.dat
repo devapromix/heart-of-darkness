@@ -1,0 +1,13 @@
+Type = Item
+Name = belt
+Category = Belt
+Title = "Пояс"
+Hint = "Прочный пояс"
+Texture = belt.png
+Level = 3
+AllowedMaterials = "cloth,leather,bone,stone,metal"
+AllowedSuffixes = "orcish,elven"
+Equip = Belt
+Armor = 3
+Durability = 5
+Rarity = 1000

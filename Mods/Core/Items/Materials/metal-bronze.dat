@@ -1,0 +1,11 @@
+Type = Material
+Class = Metal
+Title1 = Бронзовый
+Title2 = Бронзовая
+Title3 = Бронзовое
+Title4 = Бронзовые
+Sound = iron.ogg
+Durability = 4.2
+Armor = 2
+DamPhys = 1.1-1.3
+Rarity = 500

@@ -1,0 +1,11 @@
+Type = Item
+Name = hoop
+Category = Ring
+Title = "Обруч"
+Hint = "Такие кольца магмовые кобольды носят на шеях как украшение"
+Texture = hoop.png
+Level = 3
+AllowedSuffixes = "sun"
+Gender = 0
+Equip = Ring
+Rarity = 1000

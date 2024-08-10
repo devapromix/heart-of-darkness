@@ -1,0 +1,5 @@
+Type = Object
+Texture = down.png
+BlockWalk = False
+BlockLook = False
+Color = 65535

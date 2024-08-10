@@ -1,0 +1,7 @@
+Type = Creature
+Title = "Скорпион"
+Texture = scorpion.png
+Level = 1
+Strength = 12
+Stamina = 10
+Exp = 4

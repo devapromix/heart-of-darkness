@@ -1,0 +1,11 @@
+Type = Material
+Class = Bone
+Title1 = Хитиновый
+Title2 = Хитиновая
+Title3 = Хитиновое
+Title4 = Хитиновые
+Sound = chitin.ogg
+Durability = 3.1
+Armor = 1.3
+DamPhys = 1-1.1
+Rarity = 500

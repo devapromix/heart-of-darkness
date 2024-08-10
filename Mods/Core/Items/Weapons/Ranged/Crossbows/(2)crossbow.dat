@@ -1,0 +1,13 @@
+Type = Item
+Name = crossbow
+Category = Crossbow
+Title = "Арбалет"
+Hint = "Эти арбалеты широко распространены среди стражников"
+Texture = crossbow.png
+Level = 2
+AllowedMaterials = "metal"
+AllowedSuffixes = "battle"
+Equip = RHand
+DamPhys = 4-7
+Durability = 9
+Rarity = 1000

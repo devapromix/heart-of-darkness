@@ -1,0 +1,13 @@
+Type = Item
+Name = longbow
+Category = Bow
+Title = "Длинный Лук"
+Hint = "Из такого лука стрела нанесет больший ущерб противникам"
+Texture = longbow.png
+Level = 3
+AllowedMaterials = "wood,bone"
+AllowedSuffixes = "elven,battle"
+Equip = RHand
+DamPhys = 3-8
+Durability = 10
+Rarity = 1000

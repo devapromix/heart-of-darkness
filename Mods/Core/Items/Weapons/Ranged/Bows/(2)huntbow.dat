@@ -1,0 +1,13 @@
+Type = Item
+Name = huntbow
+Category = Bow
+Title = "Охотничий Лук"
+Hint = "Этот лук часто используется на охоте в восточных королевствах"
+Texture = huntbow.png
+Level = 2
+AllowedMaterials = "wood,bone"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 2-6
+Durability = 8
+Rarity = 1000

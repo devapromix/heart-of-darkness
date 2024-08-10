@@ -1,0 +1,11 @@
+Type = Item
+Name = ring
+Category = Ring
+Title = "Кольцо"
+Hint = "Древний артефакт из гробниц"
+Texture = ring.png
+Level = 1
+AllowedSuffixes = "sun"
+Gender = 3
+Equip = Ring
+Rarity = 1000

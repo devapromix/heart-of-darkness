@@ -1,0 +1,9 @@
+Type = Material
+Class = Cloth
+Title1 = Меховый
+Title2 = Меховая
+Title3 = Меховое
+Title4 = Меховые
+Sound = cloth.ogg
+Durability = 2.2
+Rarity = 500

@@ -1,0 +1,12 @@
+Type = Item
+Category = Arrow
+Title = Стрела
+Hint = "Подходит для всех видов луков"
+Texture = arrow.png
+CanGroup = True
+FlyAng = True
+Equip = LHand
+DamPhys = 1-3
+Rarity = 1000
+MinCount = 3
+MaxCount = 7

@@ -1,0 +1,11 @@
+Type = Material
+Class = Metal
+Title1 = Стальной
+Title2 = Стальная
+Title3 = Стальное
+Title4 = Стальные
+Sound = iron.ogg
+Durability = 4.7
+Armor = 3
+DamPhys = 1.7-1.9
+Rarity = 500

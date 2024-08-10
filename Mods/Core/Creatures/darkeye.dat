@@ -1,0 +1,7 @@
+Type = Creature
+Title = "ֳכאח ׂüלû"
+Texture = darkeye.png
+Level = 1
+Strength = 4
+Stamina = 7
+Exp = 2

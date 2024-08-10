@@ -1,0 +1,5 @@
+Type = Object
+Texture = portal.png
+BlockWalk = False
+BlockLook = False
+Color = 65407

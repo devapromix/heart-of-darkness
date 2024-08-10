@@ -1,0 +1,13 @@
+Type = Item
+Name = gladius
+Category = Sword
+Title = "Гладий"
+Hint = ""
+Texture = gladius.png
+Level = 3
+AllowedMaterials = "metal"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 4-11
+Durability = 14
+Rarity = 1000

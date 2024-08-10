@@ -1,0 +1,13 @@
+Type = Item
+Name = scalemail
+Category = Armor
+Title = "Доспех"
+Hint = ""
+Texture = scalemail.png
+Level = 6
+AllowedMaterials = "metal"
+AllowedSuffixes = ""
+Equip = Body
+Armor = 20
+Durability = 20
+Rarity = 1000

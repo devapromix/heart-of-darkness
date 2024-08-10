@@ -1,0 +1,7 @@
+Type = Material
+Class = Leather
+Title = "из Кожи Тролля"
+Sound = skin.ogg
+Durability = 3.5
+Armor = 1.5
+Rarity = 500

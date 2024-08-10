@@ -1,0 +1,17 @@
+Type = Item
+Category = Spear
+Title = "Короткое Копье"
+Hint = "Удары копьем молниеносны и опасны"
+Texture = shortspear.png
+Level = 1
+AllowedMaterials = "metal,bone"
+AllowedSuffixes = "orcish,elven,battle"
+Gender = 3
+Equip = RHand
+DamPhys = 2-9
+DamFire = 1-3
+Life = 666
+RefLife = 12
+Stamina = 7
+Durability = 7
+Rarity = 1000

@@ -1,0 +1,13 @@
+Type = Item
+Name = ancientsword
+Category = Sword
+Title = "Древний Меч"
+Hint = "Внутри этого уникального оружия заключена огромная сила и магия"
+Texture = ancientsword.png
+Level = 8
+AllowedMaterials = "metal,bone,stone"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 15-25
+Durability = 30
+Rarity = 1000

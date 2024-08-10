@@ -1,0 +1,12 @@
+Type = Item
+Category = Bolt
+Title = Болт
+Hint = "Качественно сделанный заряд для арбалета"
+Texture = bolt.png
+CanGroup = True
+FlyAng = True
+Equip = LHand
+DamPhys = 2-5
+Rarity = 1000
+MinCount = 3
+MaxCount = 7

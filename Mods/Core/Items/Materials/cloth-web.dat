@@ -1,0 +1,9 @@
+Type = Material
+Class = Cloth
+Title1 = Паутинный
+Title2 = Паутинная
+Title3 = Паутинное
+Title4 = Паутинные
+Sound = cloth.ogg
+Durability = 2.4
+Rarity = 500

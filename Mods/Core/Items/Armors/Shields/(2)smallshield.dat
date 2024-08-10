@@ -1,0 +1,14 @@
+Type = Item
+Name = smallshield
+Category = Shield
+Title = "Малый Щит"
+Hint = "Небольшой прочный щит"
+Texture = smallshield.png
+Level = 2
+AllowedMaterials = "leather,bone,stone,metal"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = LHand
+Armor = 8
+Durability = 8
+Block = 20
+Rarity = 1000

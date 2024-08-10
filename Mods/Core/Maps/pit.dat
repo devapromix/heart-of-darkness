@@ -1,0 +1,9 @@
+Type = Map
+Texture = town.png
+Title = "яма"
+TownID = 0
+Position = 0,2,2
+Deep = 2
+Level = 3
+
+

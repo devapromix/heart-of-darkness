@@ -1,0 +1,11 @@
+Type = Material
+Class = Wood
+Title1 = Ивовый
+Title2 = Ивовая
+Title3 = Ивовое
+Title4 = Ивовые
+Sound = wood.ogg
+Durability = 1.7
+Armor = 1
+DamPhys = 1-1.1
+Rarity = 750

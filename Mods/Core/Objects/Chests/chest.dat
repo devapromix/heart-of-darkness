@@ -1,0 +1,6 @@
+Type = Object
+Texture = chest2.png
+BlockWalk = True
+BlockLook = False
+Color = 763491
+Container = True

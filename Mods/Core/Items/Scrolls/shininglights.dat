@@ -1,0 +1,7 @@
+Type = Item
+Category = Scroll
+Hint = "Магическая вспышка света"
+EffectTag = 7
+ManaCost = 4
+Rarity = 1000
+MaxCount = 2

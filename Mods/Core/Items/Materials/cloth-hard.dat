@@ -1,0 +1,6 @@
+Type = Material
+Class = Cloth
+Title = "из √рубой “кани"
+Sound = cloth.ogg
+Durability = 2.3
+Rarity = 500

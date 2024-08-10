@@ -1,0 +1,14 @@
+Type = Item
+Name = bigshield
+Category = Shield
+Title = "Большой Щит"
+Hint = "Большие рыцарские щиты часто используются на турнирах"
+Texture = bigshield.png
+Level = 3
+AllowedMaterials = "leather,bone,stone,metal"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = LHand
+Armor = 12
+Durability = 10
+Block = 25
+Rarity = 1000

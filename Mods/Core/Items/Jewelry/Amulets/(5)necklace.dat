@@ -1,0 +1,11 @@
+Type = Item
+Name = necklace
+Category = Amulet
+Title = "Ожерелье"
+Hint = "Это ожерелье было похищено у нимф Дартмирра"
+Texture = necklace.png
+Level = 5
+Gender = 2
+AllowedSuffixes = "sun"
+Equip = Amulet
+Rarity = 1000

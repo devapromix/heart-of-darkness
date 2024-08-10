@@ -1,0 +1,14 @@
+Type = Item
+Name = chainboots
+Category = Boots
+Title = "Кольчужные Сапоги"
+Hint = ""
+Texture = chainboots.png
+Level = 4
+AllowedMaterials = "leather,metal"
+AllowedSuffixes = "orcish,elven"
+Gender = 4
+Equip = Boots
+Armor = 4
+Durability = 12
+Rarity = 1000

@@ -1,0 +1,13 @@
+Type = Item
+Name = platemail
+Category = Armor
+Title = "Доспех"
+Hint = ""
+Texture = platemail.png
+Level = 9
+AllowedMaterials = "bone,stone,metal"
+AllowedSuffixes = ""
+Equip = Body
+Armor = 20
+Durability = 20
+Rarity = 1000

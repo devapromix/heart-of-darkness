@@ -1,0 +1,7 @@
+Type = Item
+Category = Scroll
+Hint = "Временно обращает противника в союзника"
+EffectTag = 5
+ManaCost = 7
+Rarity = 1000
+MaxCount = 2

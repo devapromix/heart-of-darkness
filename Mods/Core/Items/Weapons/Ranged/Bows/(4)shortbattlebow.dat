@@ -1,0 +1,13 @@
+Type = Item
+Name = shortbattlebow
+Category = Bow
+Title = "Короткий Боевой Лук"
+Hint = ""
+Texture = shortbattlebow.png
+Level = 4
+AllowedMaterials = "wood,bone"
+AllowedSuffixes = "elven,battle"
+Equip = RHand
+DamPhys = 4-10
+Durability = 12
+Rarity = 1000

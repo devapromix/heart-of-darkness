@@ -1,0 +1,9 @@
+Type = Material
+Class = Cloth
+Title1 = Ситцевый
+Title2 = Ситцевая
+Title3 = Ситцевое
+Title4 = Ситцевые
+Sound = cloth.ogg
+Durability = 2.1
+Rarity = 500

@@ -1,0 +1,7 @@
+Type = Material
+Class = Leather
+Title = "из Кожи Огра"
+Sound = skin.ogg
+Durability = 3.6
+Armor = 1.6
+Rarity = 500

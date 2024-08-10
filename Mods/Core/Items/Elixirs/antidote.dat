@@ -1,0 +1,5 @@
+Type = Item
+Category = Elixir
+Hint = "Излечивает отравление"
+EffectTag = 1
+Rarity = 1000

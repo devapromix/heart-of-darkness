@@ -1,0 +1,14 @@
+Type = Item
+Name = heavyboots
+Category = Boots
+Title = "Тяжелые Сапоги"
+Hint = ""
+Texture = heavyboots.png
+Level = 3
+AllowedMaterials = "leather,bone"
+AllowedSuffixes = "orcish,elven"
+Gender = 4
+Equip = Boots
+Armor = 3
+Durability = 10
+Rarity = 1000

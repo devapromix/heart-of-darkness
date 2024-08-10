@@ -1,0 +1,9 @@
+Type = Creature
+Title = "Некромант"
+Texture = necromancer.png
+Level = 1
+Strength = 5
+Stamina = 8
+Intellect = 30
+Wisdom = 18
+Exp = 10

@@ -1,0 +1,7 @@
+Type = Item
+Category = Scroll
+Hint = "ѕолностью восстанавливает здоровье"
+EffectTag = 1
+ManaCost = 3
+Rarity = 1000
+MaxCount = 2

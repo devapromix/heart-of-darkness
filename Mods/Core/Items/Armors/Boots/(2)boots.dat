@@ -1,0 +1,14 @@
+Type = Item
+Name = boots
+Category = Boots
+Title = "Сапоги"
+Hint = ""
+Texture = boots.png
+Level = 2
+AllowedMaterials = "leather,bone"
+AllowedSuffixes = "orcish,elven"
+Gender = 4
+Equip = Boots
+Armor = 2
+Durability = 8
+Rarity = 1000

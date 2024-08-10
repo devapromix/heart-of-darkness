@@ -1,0 +1,4 @@
+Type = Effect
+Title = "Слабость"
+Hint = "Цель постоянно теряет манy"
+Texture = freezing.png

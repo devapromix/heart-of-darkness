@@ -1,0 +1,13 @@
+Type = Item
+Name = studdedleatherarmor
+Category = Armor
+Title = "Клепаный Доспех"
+Hint = "Этот превосходный доспех из прочных материалов - символ бессмертной стражи Берилла"
+Texture = studdedleatherarmor.png
+Level = 4
+AllowedMaterials = "leather"
+AllowedSuffixes = "orcish,elven"
+Equip = Body
+Armor = 20
+Durability = 20
+Rarity = 1000

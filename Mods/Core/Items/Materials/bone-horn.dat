@@ -1,0 +1,11 @@
+Type = Material
+Class = Bone
+Title1 = Роговой
+Title2 = Роговая
+Title3 = Роговое
+Title4 = Роговые
+Sound = horn.ogg
+Durability = 2.9
+Armor = 1.2
+DamPhys = 1.1-1.3
+Rarity = 750

@@ -1,0 +1,13 @@
+Type = Item
+Name = lightcrossbow
+Category = Crossbow
+Title = "Легкий Арбалет"
+Hint = "Качественно сделанный арбалет – может пробить броню жертвы"
+Texture = lightcrossbow.png
+Level = 1
+AllowedMaterials = "metal"
+AllowedSuffixes = "orcish,battle"
+Equip = RHand
+DamPhys = 3-6
+Durability = 6
+Rarity = 1000

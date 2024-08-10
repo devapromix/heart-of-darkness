@@ -1,0 +1,5 @@
+Type = Object
+Texture = up.png
+BlockWalk = False
+BlockLook = False
+Color = 33333

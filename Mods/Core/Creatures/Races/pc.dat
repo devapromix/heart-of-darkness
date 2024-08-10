@@ -1,0 +1,4 @@
+Type = Creature
+Texture = pc.png
+Stamina = 100
+Skills = "cure,cure2"

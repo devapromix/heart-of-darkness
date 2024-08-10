@@ -1,0 +1,5 @@
+Type = Object
+Texture = lifeshrine.png
+BlockWalk = True
+BlockLook = False
+Color = 9639167

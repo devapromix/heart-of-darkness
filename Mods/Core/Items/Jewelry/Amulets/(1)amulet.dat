@@ -1,0 +1,10 @@
+Type = Item
+Name = amulet
+Category = Amulet
+Title = "Амулет"
+Hint = "Этот артефакт пришел в наш мир из глубин вечности"
+Texture = amulet.png
+Level = 1
+AllowedSuffixes = "sun"
+Equip = Amulet
+Rarity = 1000

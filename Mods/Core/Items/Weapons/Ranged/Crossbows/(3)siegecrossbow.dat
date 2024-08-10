@@ -1,0 +1,13 @@
+Type = Item
+Name = siegecrossbow
+Category = Crossbow
+Title = "Осадный Арбалет"
+Hint = "Этот арбалет наносит значительный урон - возможно, противнику будет не суждено его пережить!"
+Texture = siegecrossbow.png
+Level = 3
+AllowedMaterials = "metal"
+AllowedSuffixes = "battle"
+Equip = RHand
+DamPhys = 5-8
+Durability = 12
+Rarity = 1000

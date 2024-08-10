@@ -1,0 +1,13 @@
+Type = Item
+Name = chainmail
+Category = Armor
+Title = "Доспех"
+Hint = ""
+Texture = chainmail.png
+Level = 7
+AllowedMaterials = "metal"
+AllowedSuffixes = ""
+Equip = Body
+Armor = 20
+Durability = 20
+Rarity = 1000

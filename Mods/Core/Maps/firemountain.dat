@@ -1,0 +1,9 @@
+Type = Map
+Texture = firemountain.png
+Title = "Огненные Горы"
+TownID = 0
+Position = 0,0,0
+Deep = 0
+Level = 3
+
+

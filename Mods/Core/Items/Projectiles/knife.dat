@@ -1,0 +1,12 @@
+Type = Item
+Category = Throwing
+Title = "Кинжал"
+Hint = "Удары кинжала молниеносны и опасны"
+Texture = knife.png
+Equip = RHand
+CanGroup = True
+Rotate = True
+DamPhys = 3-7
+Rarity = 1000
+MinCount = 4
+MaxCount = 8

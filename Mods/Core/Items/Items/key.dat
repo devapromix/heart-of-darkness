@@ -1,0 +1,10 @@
+Type = Item
+Name = key
+Category = Key
+Title = Ключ
+Hint = "Обычный ключ от замка"
+Texture = key.png
+CanGroup = True
+Rarity = 1000
+MinCount = 1
+MaxCount = 3

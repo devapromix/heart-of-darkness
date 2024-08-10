@@ -1,0 +1,5 @@
+Type = Item
+Category = Elixir
+Hint = "Восстанавливает ману"
+EffectTag = 3
+Rarity = 1000

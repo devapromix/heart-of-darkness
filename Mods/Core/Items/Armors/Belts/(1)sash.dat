@@ -1,0 +1,13 @@
+Type = Item
+Name = sash
+Category = Belt
+Title = "Кушак"
+Hint = "Достаточно удобный пояс"
+Texture = sash.png
+Level = 1
+AllowedMaterials = "cloth,leather,bone"
+AllowedSuffixes = "orcish,elven"
+Equip = Belt
+Armor = 1
+Durability = 3
+Rarity = 1000

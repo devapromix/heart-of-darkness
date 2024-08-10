@@ -1,0 +1,12 @@
+Type = Item
+Name = goblintal
+Category = Talisman
+Title = "Талисман Гоблина"
+Hint = "Гоблины часто вырывают глаза других существ и наделяют их простой магией"
+Texture = goblintal.png
+Level = 1
+AllowedSuffixes = "sun"
+AllowedMaterials = "flesh"
+UseMaterial = False
+UseAdvSuf = False
+Rarity = 1000

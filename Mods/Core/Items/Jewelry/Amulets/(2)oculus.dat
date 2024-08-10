@@ -1,0 +1,10 @@
+Type = Item
+Name = oculus
+Category = Amulet
+Title = "Вороний Глаз"
+Hint = "Огр Глодар снял этот артефакт с побежденного им некроманта"
+Texture = oculus.png
+Level = 2
+AllowedSuffixes = "sun"
+Equip = Amulet
+Rarity = 1000

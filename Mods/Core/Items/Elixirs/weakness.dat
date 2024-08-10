@@ -1,0 +1,5 @@
+Type = Item
+Category = Elixir
+Hint = "Персонаж теряет ману"
+EffectTag = 6
+Rarity = 1000

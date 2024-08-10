@@ -1,0 +1,12 @@
+Type = Item
+Category = Throwing
+Title = "Летающий Топор"
+Hint = "Метательные топоры намного быстрее обычных секир"
+Texture = flyingaxe.png
+Equip = RHand
+CanGroup = True
+Rotate = True
+DamPhys = 3-6
+Rarity = 1000
+MinCount = 6
+MaxCount = 12

@@ -1,0 +1,9 @@
+Type = Map
+Texture = forest.png
+Title = "Темный Лес"
+TownID = 0
+Position = 0,2,0
+Deep = 0
+Level = 1
+
+

@@ -1,0 +1,13 @@
+Type = Item
+Name = cap
+Category = Helmet
+Title = Шлем
+Hint = "Прочный шлем, хорошо защищает от ударов в голову"
+Texture = cap.png
+Level = 1
+AllowedMaterials = "cloth,leather,bone"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = Head
+Armor = 1
+Durability = 6
+Rarity = 1000

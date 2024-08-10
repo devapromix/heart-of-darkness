@@ -1,0 +1,4 @@
+Type = Effect
+Title = "Ржавчина"
+Hint = "Вся экипировка и оружие постепенно приходят в негодность"
+Texture = freezing.png

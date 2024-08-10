@@ -1,0 +1,6 @@
+Type = Item
+Category = Throwing
+Texture = fireball.png
+Rotate = True
+DamFire = 7-9
+ManaCost = 1

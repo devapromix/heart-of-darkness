@@ -1,0 +1,10 @@
+Type = Item
+Category = Skill
+Title = "Шаровая Молния"
+Hint = "Шаровая Молния"
+Texture = cure.png
+SkillTag = 1
+Cooldown = 1
+Active = True
+Top = 0
+Left = 0

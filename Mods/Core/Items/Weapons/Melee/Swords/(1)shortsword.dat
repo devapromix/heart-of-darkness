@@ -1,0 +1,13 @@
+Type = Item
+Name = shortsword
+Category = Sword
+Title = "Короткий Меч"
+Hint = "Этот меч быстр, как легкий кинжал"
+Texture = shortsword.png
+Level = 1
+AllowedMaterials = "metal,bone"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 2-7
+Durability = 10
+Rarity = 1000

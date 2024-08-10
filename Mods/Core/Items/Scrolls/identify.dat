@@ -1,0 +1,7 @@
+Type = Item
+Category = Scroll
+Hint = "Определяет свойства предметов"
+EffectTag = 3
+ManaCost = 4
+Rarity = 1000
+MaxCount = 2

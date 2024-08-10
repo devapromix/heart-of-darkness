@@ -1,0 +1,9 @@
+Type = Item
+Category = Skill
+Title = "Cure2"
+Hint = "Исцеляет 2 на 25 очков gggg ggg gggg"
+Texture = cure2.png
+SkillTag = 2
+Active = False
+Top = 0
+Left = 1

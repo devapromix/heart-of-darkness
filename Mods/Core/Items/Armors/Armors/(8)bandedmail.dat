@@ -1,0 +1,13 @@
+Type = Item
+Name = bandedmail
+Category = Armor
+Title = "Доспех"
+Hint = ""
+Texture = bandedmail.png
+Level = 8
+AllowedMaterials = "metal"
+AllowedSuffixes = ""
+Equip = Body
+Armor = 20
+Durability = 20
+Rarity = 1000

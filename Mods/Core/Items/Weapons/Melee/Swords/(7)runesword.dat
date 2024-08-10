@@ -1,0 +1,13 @@
+Type = Item
+Name = runesword
+Category = Sword
+Title = "Рунный Меч"
+Hint = "Блестящий клинок этого меча заколдован древними символами и слегка светиться в темноте"
+Texture = runesword.png
+Level = 7
+AllowedMaterials = "metal,bone,stone"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 10-20
+Durability = 25
+Rarity = 1000

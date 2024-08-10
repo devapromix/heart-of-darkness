@@ -1,0 +1,14 @@
+Type = Item
+Name = gauntlets
+Category = Gloves
+Title = "Перчатки"
+Hint = "Легкие перчатки с незатейливым узором"
+Texture = gauntlets.png
+Level = 1
+AllowedMaterials = "cloth"
+AllowedSuffixes = "orcish,elven"
+Gender = 4
+Equip = Gloves
+Armor = 1
+Durability = 5
+Rarity = 1000

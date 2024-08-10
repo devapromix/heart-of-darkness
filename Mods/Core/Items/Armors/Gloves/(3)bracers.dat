@@ -1,0 +1,14 @@
+Type = Item
+Name = bracers
+Category = Gloves
+Title = "Наручи"
+Hint = "Отличная защита для рук"
+Texture = bracers.png
+Level = 3
+AllowedMaterials = "cloth,leather,bone"
+AllowedSuffixes = "orcish,elven"
+Gender = 4
+Equip = Gloves
+Armor = 3
+Durability = 7
+Rarity = 1000

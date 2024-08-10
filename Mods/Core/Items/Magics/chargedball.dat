@@ -1,0 +1,6 @@
+Type = Item
+Category = Throwing
+Texture = chargedball.png
+Rotate = True
+DamElec = 1-7
+ManaCost = 1

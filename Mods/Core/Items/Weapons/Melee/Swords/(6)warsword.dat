@@ -1,0 +1,13 @@
+Type = Item
+Name = warsword
+Category = Sword
+Title = "Меч Войны"
+Hint = "Этот меч был выкован прямо на поле боя знаменитым кузнецом варваров Кромтольдом"
+Texture = warsword.png
+Level = 6
+AllowedMaterials = "metal"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 7-17
+Durability = 20
+Rarity = 1000

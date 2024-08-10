@@ -1,0 +1,11 @@
+Type = Material
+Class = Wood
+Title1 = Тисовый
+Title2 = Тисовая
+Title3 = Тисовое
+Title4 = Тисовые
+Sound = wood.ogg
+Durability = 2.2
+Armor = 1.1
+DamPhys = 1.1-1.2
+Rarity = 750

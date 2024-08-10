@@ -1,0 +1,13 @@
+Type = Item
+Name = trellisedleatherarmor
+Category = Armor
+Title = "Доспех"
+Hint = ""
+Texture = trellisedleatherarmor.png
+Level = 2
+AllowedMaterials = "leather"
+AllowedSuffixes = "orcish,elven"
+Equip = Body
+Armor = 10
+Durability = 14
+Rarity = 1000

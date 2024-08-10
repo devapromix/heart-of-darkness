@@ -1,0 +1,4 @@
+Type = Effect
+Title = "Гипноз"
+Hint = "Враг на короткое время становится другом"
+Texture = freezing.png

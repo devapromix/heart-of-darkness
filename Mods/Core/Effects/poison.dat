@@ -1,0 +1,4 @@
+Type = Effect
+Title = "ќтравление"
+Hint = "яд посто€нно забирает у цели часть здоровь€"
+Texture = poison.png

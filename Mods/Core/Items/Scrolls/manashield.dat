@@ -1,0 +1,7 @@
+Type = Item
+Category = Scroll
+Hint = "Часть повреждений переходит в ману"
+EffectTag = 8
+ManaCost = 23
+Rarity = 1000
+MaxCount = 2

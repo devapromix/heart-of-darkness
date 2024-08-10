@@ -1,0 +1,14 @@
+Type = Item
+Name = buckler
+Category = Shield
+Title = "Кулачный Щит"
+Hint = "Легкий маленький щиток"
+Texture = buckler.png
+Level = 1
+AllowedMaterials = "leather,bone,stone"
+AllowedSuffixes = "elven"
+Equip = LHand
+Armor = 4
+Durability = 6
+Block = 15
+Rarity = 1000

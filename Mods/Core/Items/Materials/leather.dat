@@ -1,0 +1,10 @@
+Type = Material
+Class = Leather
+Title1 = Кожаный
+Title2 = Кожаная
+Title3 = Кожаное
+Title4 = Кожаные
+Sound = leather.ogg
+Durability = 2.6
+Armor = 1.2
+Rarity = 1000

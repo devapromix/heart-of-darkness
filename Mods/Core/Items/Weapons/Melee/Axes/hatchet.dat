@@ -1,0 +1,12 @@
+Type = Item
+Category = Axe
+Title = Топор
+Hint = "Никто не осмелится встать у вас на пути"
+Texture = hatchet.png
+Level = 1
+AllowedMaterials = "metal,bone"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 3-6
+Durability = 9
+Rarity = 1000

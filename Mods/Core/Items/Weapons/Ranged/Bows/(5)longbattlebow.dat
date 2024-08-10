@@ -1,0 +1,13 @@
+Type = Item
+Name = longbattlebow
+Category = Bow
+Title = "Длинный Боевой Лук"
+Hint = ""
+Texture = longbattlebow.png
+Level = 5
+AllowedMaterials = "wood,bone"
+AllowedSuffixes = "elven,battle"
+Equip = RHand
+DamPhys = 5-12
+Durability = 14
+Rarity = 1000

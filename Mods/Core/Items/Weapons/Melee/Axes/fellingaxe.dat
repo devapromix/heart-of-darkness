@@ -1,0 +1,12 @@
+Type = Item
+Category = Axe
+Title = Топорик Лесника
+Hint = "Используется не только для рубки деревьев"
+Texture = hatchet.png
+Level = 2
+AllowedMaterials = "metal,bone"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 4-7
+Durability = 10
+Rarity = 1000

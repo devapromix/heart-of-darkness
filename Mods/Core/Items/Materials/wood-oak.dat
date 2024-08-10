@@ -1,0 +1,11 @@
+Type = Material
+Class = Wood
+Title1 = Дубовый
+Title2 = Дубовая
+Title3 = Дубовое
+Title4 = Дубовые
+Sound = wood-hard.ogg
+Durability = 2.8
+Armor = 1.2
+DamPhys = 1.1-1.3
+Rarity = 750

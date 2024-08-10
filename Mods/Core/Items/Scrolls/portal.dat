@@ -1,0 +1,7 @@
+Type = Item
+Category = Scroll
+Hint = "Открывает магическе врата"
+EffectTag = 2
+ManaCost = 5
+Rarity = 1000
+MaxCount = 2

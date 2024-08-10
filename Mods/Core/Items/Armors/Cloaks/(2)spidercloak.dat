@@ -1,0 +1,13 @@
+Type = Item
+Name = spidercloak
+Category = Cloak
+Title = "Паучий Плащ"
+Hint = ""
+Texture = spidercloak.png
+Level = 2
+AllowedMaterials = "cloth,leather"
+AllowedSuffixes = "orcish,elven"
+Equip = Cloak
+Armor = 2
+Durability = 5
+Rarity = 1000

@@ -1,0 +1,14 @@
+Type = Item
+Name = greaves
+Category = Boots
+Title = "Латы"
+Hint = ""
+Texture = greaves.png
+Level = 5
+AllowedMaterials = "leather,metal"
+AllowedSuffixes = "orcish,elven"
+Gender = 4
+Equip = Boots
+Armor = 5
+Durability = 14
+Rarity = 1000

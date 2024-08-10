@@ -1,0 +1,13 @@
+Type = Item
+Name = broadsword
+Category = Sword
+Title = "Широкий Меч"
+Hint = ""
+Texture = broadsword.png
+Level = 4
+AllowedMaterials = "metal"
+AllowedSuffixes = "orcish,elven,battle"
+Equip = RHand
+DamPhys = 5-13
+Durability = 16
+Rarity = 1000

@@ -1,0 +1,4 @@
+Type = Effect
+Title = "—опротивление яду"
+Hint = "÷ель невозможно отравить €дом"
+Texture = freezing.png

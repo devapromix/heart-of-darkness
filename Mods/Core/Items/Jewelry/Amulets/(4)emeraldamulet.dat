@@ -1,0 +1,10 @@
+Type = Item
+Name = emeraldamulet
+Category = Amulet
+Title = "Изумрудный Амулет"
+Hint = "Такие амулеты часто можно увидеть у высоких эльфов Дарморра"
+Texture = emeraldamulet.png
+Level = 4
+AllowedSuffixes = "sun"
+Equip = Amulet
+Rarity = 1000

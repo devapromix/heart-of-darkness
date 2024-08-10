@@ -1,0 +1,4 @@
+Type = Effect
+Title = "Вампиризм"
+Hint = "Каждая удачная атака восстанавливает часть здоровья"
+Texture = freezing.png

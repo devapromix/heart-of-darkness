@@ -1,0 +1,12 @@
+Type = Item
+Category = Throwing
+Title = —юрикен
+Hint = "ћетательное оружие убийц"
+Texture = shuriken.png
+Equip = RHand
+CanGroup = True
+Rotate = True
+DamPhys = 3-6
+Rarity = 1000
+MinCount = 4
+MaxCount = 8

@@ -1,0 +1,5 @@
+Type = Item
+Category = Elixir
+Hint = "Восстанавливает прочность у предмета"
+EffectTag = 4
+Rarity = 1000

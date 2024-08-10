@@ -1,0 +1,6 @@
+Type = Material
+Title = "из Плоти"
+Sound = flesh.ogg
+Durability = 0.5
+Armor = 0.5
+Rarity = 250

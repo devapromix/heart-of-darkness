@@ -1,0 +1,13 @@
+Type = Item
+Name = lightbelt
+Category = Belt
+Title = "Легкий Пояс"
+Hint = "Удобный пояс монахов и бардов"
+Texture = lightbelt.png
+Level = 2
+AllowedMaterials = "cloth,leather,bone,stone"
+AllowedSuffixes = "orcish,elven"
+Equip = Belt
+Armor = 2
+Durability = 4
+Rarity = 1000

@@ -1,0 +1,11 @@
+Type = Material
+Class = Stone
+Title1 = Каменный
+Title2 = Каменная
+Title3 = Каменное
+Title4 = Каменные
+Sound = stone.ogg
+Durability = 3
+Armor = 1.2
+DamPhys = 1.2-1.3
+Rarity = 650

@@ -1,0 +1,8 @@
+Type = Creature
+Title = "Скелет"
+Texture = skelet.png
+Level = 1
+Equip = "blacksmith,blind,weakness,shortsword,shortspear,shortstaff,hatchet,shortbow,lightcrossbow,pilum,flyingaxe,knife,rock,shuriken"
+Strength = 6
+Stamina = 9
+Exp = 3

@@ -1,0 +1,4 @@
+Type = Effect
+Title = "Неуязвимость"
+Hint = "Цель временно защищена магическим щитом"
+Texture = freezing.png

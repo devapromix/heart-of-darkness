@@ -1,0 +1,9 @@
+Type = Map
+Texture = mountain.png
+Title = "Серые Холмы"
+TownID = 0
+Position = 0,1,0
+Deep = 0
+Level = 2
+
+

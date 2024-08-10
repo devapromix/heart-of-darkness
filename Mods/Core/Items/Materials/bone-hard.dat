@@ -1,0 +1,11 @@
+Type = Material
+Class = Bone
+Title1 = Костяной
+Title2 = Костяная
+Title3 = Костяное
+Title4 = Костяные
+Sound = bone.ogg
+Durability = 2.8
+Armor = 1.1
+DamPhys = 1.2-1.3
+Rarity = 750
