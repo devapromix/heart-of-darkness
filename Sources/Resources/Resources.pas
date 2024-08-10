@@ -132,9 +132,9 @@ var
   I: TResEnum;
   S: TSndEnum;
 begin
-  for J := Low(TFontEnum) to High(TFontEnum) do Font[J] := LoadFont('..\' + FontPath[J]);
-  for I := Low(TResEnum) to High(TResEnum) do Resource[I] := LoadTexture('..\' + ResourcePath[I]);
-  for S := Low(TSndEnum) to High(TSndEnum) do Sound[S] := LoadSound('..\' + SoundPath[S]);
+  for J := Low(TFontEnum) to High(TFontEnum) do Font[J] := LoadFont(FontPath[J]);
+  for I := Low(TResEnum) to High(TResEnum) do Resource[I] := LoadTexture(ResourcePath[I]);
+  for S := Low(TSndEnum) to High(TSndEnum) do Sound[S] := LoadSound(SoundPath[S]);
   // Tilesets 16x16
   for I := ttEffects to ttEffects do SetFrameSize(Resource[I], 16, 16);
   // Tilesets 32x32

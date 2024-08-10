@@ -645,7 +645,7 @@ begin
   Scroll := TScroll.Create;
   //Scroll.LoadFromFile('hero.sav');
 
-  gm_patterns.Init('..\mods\');
+  gm_patterns.Init('Mods\');
 
   PCTown.Free;
   PCTown := TTown.Create;
